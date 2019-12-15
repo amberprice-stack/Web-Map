@@ -6,7 +6,5 @@ This application is a map that is displayed through a browser and can be visited
 
 # Built With
 * Atom
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # Authors
 * Amber Price
